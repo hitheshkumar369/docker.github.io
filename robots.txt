@@ -20,6 +20,7 @@ Disallow: /datacenter/dtr/2.1
 Disallow: /datacenter/dtr/2.0
 
 Disallow: /datacenter/ucp/2.1
+Disallow: /datacenter/ucp/2.1
 Disallow: /datacenter/ucp/2.0
 Disallow: /datacenter/ucp/1.1
 
